@@ -4,6 +4,13 @@
 
 draftlist=$1
 cardlist=output_formated_numeric.csv
+lines=`wc -l mtgo_draft_recorder.sample.txt |awk '{print $1}'`
+i=1
 
-name=`head -n 29 $draftlist |tail -n 1|sed 's/^\s\s\s\s//g' |sed 's/-->\s//g'` ;
-echo $name
+while [ $i -le $lines ]
+ do
+  line=`head -n $i $draftlist |tail -n 1`
+  name=`echo $line|sed 's/^\s\s\s\s//g' |sed 's/-->\s//g'` ;
+  echo $name
+  i=$[i+1]
+done
