@@ -1,0 +1,468 @@
+Event #: 9999999
+Time:    10/10/2013 5:55:55 PM
+Players: 
+    One
+    Two
+    Three
+    Four
+    Five
+    Six
+    Seven
+    Eight
+ 
+------ THS ------
+ 
+Pack 1 pick 1:
+    Ephara's Warden
+    Fleshmad Steed
+    Nimbus Naiad
+    Aqueous Form
+    Spearpoint Oread
+    Vulpine Goliath
+    Yoked Ox
+    Baleful Eidolon
+    Deathbellow Raider
+    Borderland Minotaur
+    Chronicler of Heroes
+    Witches' Eye
+    Triton Tactics
+--> Whip of Erebos
+    Forest
+ 
+Pack 1 pick 2:
+    Sip of Hemlock
+    Bronze Sable
+    Messenger's Speed
+    Griptide
+    Commune with the Gods
+    Hopeful Eidolon
+    Spark Jolt
+    Returned Phalanx
+    Voyage's End
+    Akroan Crusader
+--> Magma Jet
+    Cutthroat Maneuver
+    Swan Song
+    Island
+ 
+Pack 1 pick 3:
+--> Lightning Strike
+    Pheres-Band Centaurs
+    Divine Verdict
+    Pharika's Cure
+    Rage of Purphoros
+    Feral Invocation
+    Returned Centaur
+    Boulderfall
+    Setessan Battle Priest
+    Stoneshock Giant
+    Glare of Heresy
+    Arena Athlete
+    Island
+ 
+Pack 1 pick 4:
+    Nylea's Presence
+    Fleetfeather Sandals
+    Demolish
+    Coastline Chimera
+    Pharika's Cure
+    Defend the Hearth
+    Leonin Snarecaster
+    Priest of Iroas
+    Ray of Dissolution
+--> Vaporkin
+    Flamespeaker Adept
+    Mountain
+ 
+Pack 1 pick 5:
+    Gods Willing
+    Fleetfeather Sandals
+    Unknown Shores
+    Crackling Triton
+    Portent of Betrayal
+    Commune with the Gods
+    Felhide Minotaur
+--> Voyage's End
+    Flamecast Wheel
+    Gift of Immortality
+    Island
+ 
+Pack 1 pick 6:
+    Stymied Hopes
+    Two-Headed Cerberus
+    Aqueous Form
+    Silent Artisan
+    Shredding Winds
+--> Deathbellow Raider
+    Akroan Hoplite
+    Coordinated Assault
+    Spellheart Chimera
+    Island
+ 
+Pack 1 pick 7:
+    Demolish
+    Gods Willing
+    Scourgemark
+    Satyr Hedonist
+--> Satyr Rambler
+    Leonin Snarecaster
+    Setessan Griffin
+    Triton Shorethief
+    Mountain
+ 
+Pack 1 pick 8:
+    Nessian Courser
+--> Minotaur Skullcleaver
+    Chosen by Heliod
+    Mnemonic Wall
+    Fate Foretold
+    Portent of Betrayal
+    Ray of Dissolution
+    Plains
+ 
+Pack 1 pick 9:
+    Ephara's Warden
+    Aqueous Form
+    Vulpine Goliath
+    Yoked Ox
+--> Borderland Minotaur
+    Witches' Eye
+    Forest
+ 
+Pack 1 pick 10:
+    Bronze Sable
+    Messenger's Speed
+    Commune with the Gods
+--> Hopeful Eidolon
+    Spark Jolt
+    Island
+ 
+Pack 1 pick 11:
+--> Pheres-Band Centaurs
+    Boulderfall
+    Setessan Battle Priest
+    Glare of Heresy
+    Island
+ 
+Pack 1 pick 12:
+    Demolish
+    Defend the Hearth
+--> Priest of Iroas
+    Mountain
+ 
+Pack 1 pick 13:
+--> Fleetfeather Sandals
+    Flamecast Wheel
+    Island
+ 
+Pack 1 pick 14:
+--> Stymied Hopes
+    Island
+ 
+Pack 1 pick 15:
+--> Mountain
+ 
+------ THS ------
+ 
+Pack 2 pick 1:
+    Bronze Sable
+    Ephara's Warden
+    Sip of Hemlock
+    Crackling Triton
+    Spark Jolt
+    Last Breath
+    Scourgemark
+    Griptide
+    Vaporkin
+    Felhide Minotaur
+    Anvilwrought Raptor
+    Vanquish the Foul
+    Thassa's Emissary
+--> Thassa, God of the Sea
+    Plains
+ 
+Pack 2 pick 2:
+    Minotaur Skullcleaver
+    Battlewise Valor
+    Annul
+    Traveling Philosopher
+    Wild Celebrants
+    Silent Artisan
+    Time to Feed
+    Boon of Erebos
+--> Vaporkin
+    Horizon Chimera
+    Triton Fortune Hunter
+    Warriors' Lesson
+    Colossus of Akros
+    Mountain
+ 
+Pack 2 pick 3:
+    March of the Returned
+    Fleshmad Steed
+--> Titan's Strength
+    Traveling Philosopher
+    Yoked Ox
+    Blood-Toll Harpy
+    Benthic Giant
+    Savage Surge
+    Setessan Griffin
+    Hunt the Hunter
+    Pharika's Mender
+    Pyxis of Pandemonium
+    Mountain
+ 
+Pack 2 pick 4:
+    Nessian Courser
+    Fate Foretold
+--> Portent of Betrayal
+    Defend the Hearth
+    Agent of Horizons
+    Staunch-Hearted Warrior
+    Boon of Erebos
+    Artisan's Sorrow
+    Mogis's Marauder
+    Prowler's Helm
+    Agent of the Fates
+    Mountain
+ 
+Pack 2 pick 5:
+    March of the Returned
+    Dragon Mantle
+    Blood-Toll Harpy
+--> Spearpoint Oread
+    Breaching Hippocamp
+    Vulpine Goliath
+    Traveler's Amulet
+    Akroan Crusader
+    Rescue from the Underworld
+    Gainsay
+    Forest
+ 
+Pack 2 pick 6:
+--> Ill-Tempered Cyclops
+    Guardians of Meletis
+    Loathsome Catoblepas
+    Returned Phalanx
+    Lost in a Labyrinth
+    Setessan Battle Priest
+    Deathbellow Raider
+    Burnished Hart
+    Erebos's Emissary
+    Swamp
+ 
+Pack 2 pick 7:
+    Mnemonic Wall
+    Loathsome Catoblepas
+    Wild Celebrants
+    Silent Artisan
+    Blood-Toll Harpy
+--> Breaching Hippocamp
+    Anvilwrought Raptor
+    Satyr Piper
+    Swamp
+ 
+Pack 2 pick 8:
+    Pheres-Band Centaurs
+    Nylea's Presence
+    Returned Centaur
+--> Annul (FOIL)
+    Commune with the Gods
+    Shredding Winds
+    Mogis's Marauder
+    Swamp
+ 
+Pack 2 pick 9:
+    Bronze Sable
+    Ephara's Warden
+--> Spark Jolt
+    Scourgemark
+    Felhide Minotaur
+    Anvilwrought Raptor
+    Plains
+ 
+Pack 2 pick 10:
+    Traveling Philosopher
+--> Wild Celebrants
+    Silent Artisan
+    Horizon Chimera
+    Warriors' Lesson
+    Mountain
+ 
+Pack 2 pick 11:
+    Yoked Ox
+    Savage Surge
+    Setessan Griffin
+--> Pyxis of Pandemonium
+    Mountain
+ 
+Pack 2 pick 12:
+    Defend the Hearth
+--> Artisan's Sorrow
+    Prowler's Helm
+    Mountain
+ 
+Pack 2 pick 13:
+    March of the Returned
+--> Gainsay
+    Forest
+ 
+Pack 2 pick 14:
+--> Loathsome Catoblepas
+    Swamp
+ 
+Pack 2 pick 15:
+--> Swamp
+ 
+------ THS ------
+ 
+Pack 3 pick 1:
+    Chosen by Heliod
+    Pheres-Band Centaurs
+    Nylea's Presence
+    Satyr Hedonist
+    Satyr Rambler
+    Leonin Snarecaster
+    Feral Invocation
+    Fate Foretold
+    Opaline Unicorn
+    Ray of Dissolution
+    Ordeal of Purphoros
+    Ordeal of Thassa
+    Evangel of Heliod
+--> Anger of the Gods
+    Swamp
+ 
+Pack 3 pick 2:
+    Nessian Asp
+    Bronze Sable
+    Ephara's Warden
+    Feral Invocation
+    Thassa's Bounty
+    Lagonna-Band Elder
+    Priest of Iroas
+    Cavern Lampad
+    Staunch-Hearted Warrior
+    Kragma Warcaller
+    Karametra's Acolyte
+--> Fanatic of Mogis
+    Triad of Fates
+    Plains
+ 
+Pack 3 pick 3:
+    Messenger's Speed
+    Gray Merchant of Asphodel
+    Prescient Chimera
+    Fleetfeather Sandals
+    Pharika's Cure
+    Defend the Hearth
+    Leonin Snarecaster
+    Voyage's End
+    Staunch-Hearted Warrior
+    Ordeal of Erebos
+    Kragma Warcaller
+--> Thassa's Emissary
+    Plains
+ 
+Pack 3 pick 4:
+    March of the Returned
+    Dragon Mantle
+    Bronze Sable
+    Ephara's Warden
+    Vulpine Goliath
+    Titan's Strength
+--> Wavecrash Triton
+    Opaline Unicorn
+    Kragma Warcaller
+    Karametra's Acolyte
+    Prowler's Helm
+    Plains
+ 
+Pack 3 pick 5:
+    Divine Verdict
+    Silent Artisan
+    Blood-Toll Harpy
+    Wingsteed Rider
+--> Spearpoint Oread
+    Breaching Hippocamp
+    Setessan Battle Priest
+    Deathbellow Raider
+    Flamespeaker Adept
+    Spellheart Chimera
+    Plains
+ 
+Pack 3 pick 6:
+    Pheres-Band Centaurs
+    Guardians of Meletis
+--> Wild Celebrants
+    Time to Feed
+    Asphodel Wanderer
+    Scholar of Athreos
+    Destructive Revelry
+    Ordeal of Nylea
+    Prowler's Helm
+    Swamp
+ 
+Pack 3 pick 7:
+    Viper's Kiss
+    Dragon Mantle
+    Last Breath
+    Satyr Hedonist
+    Satyr Rambler
+    Felhide Minotaur
+--> Voyage's End
+    Centaur Battlemaster
+    Forest
+ 
+Pack 3 pick 8:
+    Ephara's Warden
+    Asphodel Wanderer
+    Silent Artisan
+    Scholar of Athreos
+    Triton Shorethief
+    Decorated Griffin
+--> Fanatic of Mogis
+    Forest
+ 
+Pack 3 pick 9:
+    Chosen by Heliod
+    Nylea's Presence
+    Satyr Hedonist
+--> Satyr Rambler
+    Leonin Snarecaster
+    Ray of Dissolution
+    Swamp
+ 
+Pack 3 pick 10:
+    Bronze Sable
+    Ephara's Warden
+    Feral Invocation
+    Priest of Iroas
+--> Karametra's Acolyte
+    Plains
+ 
+Pack 3 pick 11:
+    Messenger's Speed
+    Fleetfeather Sandals
+    Defend the Hearth
+--> Staunch-Hearted Warrior
+    Plains
+ 
+Pack 3 pick 12:
+    Bronze Sable
+--> Ephara's Warden
+    Prowler's Helm
+    Plains
+ 
+Pack 3 pick 13:
+    Silent Artisan
+--> Spellheart Chimera
+    Plains
+ 
+Pack 3 pick 14:
+--> Pheres-Band Centaurs
+    Swamp
+ 
+Pack 3 pick 15:
+--> Forest
+ 
