@@ -9,8 +9,17 @@ if [ ! -f frank.html ]
    wget -O - http://www.channelfireball.com/articles/frank-analysis-a-pick-order-list-for-theros-draft/ > frank.html
 fi
 
-#Split Files at Headings
-awk 'BEGIN { file = "/dev/null"} /<p><b>[a-zA-Z]/ {file="section"(++i)".html" } {print > file}' frank.html
+#Split Files at Headings - start with 101 for soting purposes
+if [ ! -f section100.html ]
+ then
+   awk 'BEGIN { file = "/dev/null"; i=100} /<p><b>[a-zA-Z]/ {file="section"(++i)".html" } {print > file}' frank.html
+fi
 
-#tidy -ucbq --omit section1.html 2> /dev/null
+for section in section1*
+ do
+  headline=`head -n 1 $section  | sed 's/<\/*p>//g'|sed 's/<\/*b>//g'| sed 's/://g' | sed "s/&#8217;/\'/g"`
+  tidy -ucbq --omit $section 2> /dev/null | awk -v hl="$headline" -F "'" '/alt=/ { print $2";"hl}' | sed "s/&#8217;/\'/g"
+done
 
+# Remove Temp-Files
+# rm frank.html section1*.html
