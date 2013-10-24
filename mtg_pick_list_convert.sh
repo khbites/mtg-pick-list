@@ -15,10 +15,12 @@ if [ ! -f section100.html ]
    awk 'BEGIN { file = "/dev/null"; i=100} /<p><b>[a-zA-Z]/ {file="section"(++i)".html" } {print > file}' frank.html
 fi
 
-for section in section1*
+for section in section112*
  do
   headline=`head -n 1 $section  | sed 's/<\/*p>//g'|sed 's/<\/*b>//g'| sed 's/://g' | sed "s/&#8217;/\'/g"`
-  tidy -ucbq --omit $section 2> /dev/null | awk -v hl="$headline" -F "'" 'BEGIN{num=1} /alt=/ { print num++";"$2";"hl}' | sed "s/&#8217;/\'/g" | sed "s/&amp;#8217;/\'/g"
+  echo $section
+  echo $headline
+tidy -ucbq --force-output y $section 2> /dev/null | awk -v hl="$headline" -F "'" 'BEGIN{num=1} /alt=/ { if( $2 != "" ) print num++";"$2";"hl}' | sed "s/&#8217;/\'/g" | sed "s/&amp;#8217;/\'/g"
 done
 
 # Remove Temp-Files
